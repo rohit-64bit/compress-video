@@ -1,11 +1,23 @@
 {
   "name": "compress-video",
   "version": "1.0.0",
-  "description": "A video compressor",
+  "description": "> npm i compress-video",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rohit64Bit",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohit-64bit/compress-video.git"
+  },
+  "keywords": [
+    "video",
+    "compressor"
+  ],
+  "author": "Rohit 64 Bit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohit-64bit/compress-video/issues"
+  },
+  "homepage": "https://github.com/rohit-64bit/compress-video#readme"
 }
