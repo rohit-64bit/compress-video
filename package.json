@@ -1,0 +1,11 @@
+{
+  "name": "compress-video",
+  "version": "1.0.0",
+  "description": "A video compressor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit64Bit",
+  "license": "ISC"
+}
