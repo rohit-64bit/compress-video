@@ -2,9 +2,6 @@
 
 > npm i compress-video
 
-const videoCompress = require('compress-video')
-
-videoCompress()
 
 ```js
 const compressVideo = require('compress-video')
